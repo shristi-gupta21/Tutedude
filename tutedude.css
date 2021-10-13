@@ -24,7 +24,9 @@ header {
 header .menu {
   list-style: none;
   flex-direction: column;
+
 }
+
 
 .menu li {
   display: inline-block;
